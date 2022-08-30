@@ -8,7 +8,7 @@
             "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
             "rating":"PG",
             "runtime":"2hr 5min",
-            "poster":""
+            "poster":"Images/SpiritedAway.jpg"
         },
         {
             "id": 1,
@@ -18,7 +18,7 @@
             "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
             "rating":"G",
             "runtime": "1hr 26min",
-            "poster":
+            "poster":"Images/MyNeighborTotoro.jpg"
         },
         {
             "id": 2,
@@ -28,7 +28,7 @@
             "description": "Sophie finds her life changed when she is literally swept off her feet by the handsome, mysterious wizard Howl. In search of a cure to a witch’s curse, Sophie boards his magnificent moving castle into a new life of wonder and adventure.",
             "rating":"PG",
             "runtime": "1hr 59min",
-            "poster":
+            "poster":"Images/Howl'sMovingCastle.jpeg"
         },
         {
             "id": 3,
@@ -37,7 +37,8 @@
             "release date": "April 1, 1989 (USA)",
             "description": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle",
             "rating":"PG",
-            "runtime":"2hr 4min"
+            "runtime":"2hr 4min",
+            "poster":"Images/CastleInTheSky.jpg"
         },
         {
             "id": 4,
@@ -46,7 +47,8 @@
             "genre": "Adventure",
             "description": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
             "rating":"G",
-            "runtime": "1hr 42min"
+            "runtime": "1hr 42min",
+            "poster": "Images/Kiki'sDeliveryService.jpg"
         },
         {
             "id": 5,
@@ -55,7 +57,8 @@
             "genre": "Fantasy",
             "description": "A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him.",
             "rating":"PG",
-            "runtime":"1hr 43min"
+            "runtime":"1hr 43min",
+            "poster": "Images/Ponyo.jpg"
         },
         {
             "id": 6,
@@ -64,7 +67,8 @@
             "genre": "Fantasy",
             "description": "A prince becomes involved in the struggle between a forest princess and the encroachment of mechanization.",
             "rating":"PG-13",
-            "runtime": "2hr 13min"
+            "runtime": "2hr 13min",
+            "poster": "Images/Princessmononoke.jpg"
         },
         {
             "id": 7,
@@ -73,7 +77,8 @@
             "genre": "Adventure",
             "description": "In 1930s Italy, a veteran World War I pilot is cursed to look like an anthropomorphic pig.",
             "rating":"PG",
-            "runtime": "1hr 42min"
+            "runtime": "1hr 42min",
+            "poster": "Images/PorcoRosso.jpg"
         },
         {
             "id":8,
@@ -82,7 +87,8 @@
             "genre": "Fantasy, Adventure",
             "description": "Far in the future, after an apocalyptic conflict has devastated much of the world's ecosystem, the few surviving humans live in scattered semi-hospitable environments within what has become a toxic jungle. Young Nausicaä lives in the arid Valley of the Wind and can communicate with the massive insects that populate the dangerous jungle. Under the guidance of the pensive veteran warrior, Lord Yupa, Nausicaä works to bring peace back to the ravaged planet.",
             "rating": "PG",
-            "runtime": "1hr 35min"
+            "runtime": "1hr 35min",
+            "poster": "Images/NausicaaoftheValleyoftheWind.jpg"
         },
         {
             "id":9,
@@ -91,7 +97,8 @@
             "genre": "Fantasy, Adventure",
             "description": "In a mythical land, a man and a young boy investigate a series of unusual occurrences.",
             "rating": "PG-13",
-            "runtime": "1hr 55min"
+            "runtime": "1hr 55min",
+            "poster": "Images/TalesFromEarthsea.png"
         },
         {
             "id":10,
@@ -100,7 +107,8 @@
             "genre": "Romance, Drama",
             "description": "The arrival of a pretty transfer student from Tokyo sets in motion a change in the relationship between two best friends.",
             "rating": "PG-13",
-            "runtime": "1hr 12min"
+            "runtime": "1hr 12min",
+            "poster": "Images/OceanWaves.jpg"
         },
         {
             "id":11,
@@ -110,7 +118,7 @@
             "description": "The Clock family are four-inch-tall people who live anonymously in another family's residence, borrowing simple items to make their home. Life changes for the Clocks when their teenage daughter, Arrietty, is discovered.",
             "rating": "G",
             "runtime": "1hr 44min",
-            "poster":
+            "poster":"Images/Arrietty.jpg"
         },
         {
             "id":12,
@@ -140,7 +148,7 @@
             "description": "The life and misadventures of a family in contemporary Japan.",
             "rating":"PG",
             "runtime": "1hr 44min",
-            "poster": "Images/myneighborstheyamadas.jpg"
+            "poster": "Images/myneighborsTheYamadas.jpg"
         },
         {
             "id":15,
@@ -150,7 +158,7 @@
             "description": "High school student Haru rescues a cat that was about to be run over by a truck and discovers the cat is actually a prince named Lune. Out of gratitude, Lune's father, the Cat King, asks her to marry Lune. Haru is brought to the Cat Kingdom, where she starts to develop feline features.",
             "rating":"G",
             "runtime": "1hr 15min",
-            "poster":"Images/thecatreturns.jpg"
+            "poster":"Images/TheCatReturns.jpg"
         },
         {
             "id":16,
@@ -160,7 +168,7 @@
             "description": "A teenager is charged with the care of his younger sister after an Allied firebombing during World War II destroys their home and kills their mother.",
             "rating":"No Rating",
             "runtime": "1hr 29min",
-            "poster": "Images/"
+            "poster": "Images/GraveoftheFireflies.jpg"
         },
         {
             "id":17,
@@ -190,7 +198,7 @@
             "description": "Based on the manga with the same title, this animated film follows Shizuku, an inquisitive young girl and a voracious reader, who longs to be a writer when she grows up. One day she notices that all of her library books have previously been taken out by one Seiji Amasawa. Amid chasing after a large cat, befriending an eccentric antiques dealer and writing her first novel, Shizuku aims to find this mysterious boy who may well be her soul mate.",
             "rating":"G",
             "runtime": "1hr 51min",
-            "poster":"Images/whisperoftheheart.jpg"
+            "poster":"Images/WhisperOfTheHeart.jpg"
         },
         {
             "id":20,
@@ -200,7 +208,7 @@
             "description": "A tomboy explores a long-abandoned villa and meets a mysterious blonde girl only she can see.",
             "rating":"PG",
             "runtime": "1hr 43min",
-            "poster":"Images/whenmarinewasthere.jpg"
+            "poster":"Images/WhenMarineWasThere.jpg"
         },
         {
             "id":21,
@@ -210,7 +218,7 @@
             "description": "A tiny nymph found inside a bamboo stalk grows into a beautiful and desirable young woman, who orders her suitors to prove their love by completing a series of near-impossible tasks.",
             "rating":"PG",
             "runtime": "2hr 17min",
-            "poster": "Images/thetaleofprincesskaguya.jpg"
+            "poster": "Images/TheTaleofPrincessKaguya.jpg"
         }
 
     ]
