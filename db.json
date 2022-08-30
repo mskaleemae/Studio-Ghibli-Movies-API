@@ -1,0 +1,217 @@
+{
+    "studio-ghibli-movies": [
+        { 
+            "id": 0,
+            "title": "Spirited Away",
+            "release date": " August 31, 2002 (USA)",
+            "genre": "Fantasy",
+            "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+            "rating":"PG",
+            "runtime":"2hr 5min",
+            "poster":""
+        },
+        {
+            "id": 1,
+            "title": "My Neighbor Totoro",
+            "release date": " May 7, 1993 (USA)",
+            "genre": "Fantasy",
+            "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+            "rating":"G",
+            "runtime": "1hr 26min",
+            "poster":
+        },
+        {
+            "id": 2,
+            "title": "Howl's Moving Castle",
+            "release date": "June 17, 2005 (USA)",
+            "genre": "Fantasy",
+            "description": "Sophie finds her life changed when she is literally swept off her feet by the handsome, mysterious wizard Howl. In search of a cure to a witch’s curse, Sophie boards his magnificent moving castle into a new life of wonder and adventure.",
+            "rating":"PG",
+            "runtime": "1hr 59min",
+            "poster":
+        },
+        {
+            "id": 3,
+            "title": "Castle in the Sky",
+            "genre": "Fantasy",
+            "release date": "April 1, 1989 (USA)",
+            "description": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle",
+            "rating":"PG",
+            "runtime":"2hr 4min"
+        },
+        {
+            "id": 4,
+            "title": "Kiki's Delivery Service",
+            "release date": " December 20, 1990 (USA)",
+            "genre": "Adventure",
+            "description": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+            "rating":"G",
+            "runtime": "1hr 42min"
+        },
+        {
+            "id": 5,
+            "title": "Ponyo",
+            "release date": "June 28, 2009 (USA)",
+            "genre": "Fantasy",
+            "description": "A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him.",
+            "rating":"PG",
+            "runtime":"1hr 43min"
+        },
+        {
+            "id": 6,
+            "title": "Princess Mononoke",
+            "release date": "October 29, 1999 (USA)",
+            "genre": "Fantasy",
+            "description": "A prince becomes involved in the struggle between a forest princess and the encroachment of mechanization.",
+            "rating":"PG-13",
+            "runtime": "2hr 13min"
+        },
+        {
+            "id": 7,
+            "title": "Porco Rosso",
+            "release date": "February 22, 2005 (USA)",
+            "genre": "Adventure",
+            "description": "In 1930s Italy, a veteran World War I pilot is cursed to look like an anthropomorphic pig.",
+            "rating":"PG",
+            "runtime": "1hr 42min"
+        },
+        {
+            "id":8,
+            "title": "Nausicaa of the Valley of the Wind",
+            "release date": "June 13, 1985 (USA)",
+            "genre": "Fantasy, Adventure",
+            "description": "Far in the future, after an apocalyptic conflict has devastated much of the world's ecosystem, the few surviving humans live in scattered semi-hospitable environments within what has become a toxic jungle. Young Nausicaä lives in the arid Valley of the Wind and can communicate with the massive insects that populate the dangerous jungle. Under the guidance of the pensive veteran warrior, Lord Yupa, Nausicaä works to bring peace back to the ravaged planet.",
+            "rating": "PG",
+            "runtime": "1hr 35min"
+        },
+        {
+            "id":9,
+            "title": "Tales From Earthsea",
+            "release date": "August 13, 2010 (USA)",
+            "genre": "Fantasy, Adventure",
+            "description": "In a mythical land, a man and a young boy investigate a series of unusual occurrences.",
+            "rating": "PG-13",
+            "runtime": "1hr 55min"
+        },
+        {
+            "id":10,
+            "title": "Ocean Waves",
+            "release date": "July 13, 1994 (USA)",
+            "genre": "Romance, Drama",
+            "description": "The arrival of a pretty transfer student from Tokyo sets in motion a change in the relationship between two best friends.",
+            "rating": "PG-13",
+            "runtime": "1hr 12min"
+        },
+        {
+            "id":11,
+            "title": "Arrietty",
+            "release date": "February 17, 2012 (USA)",
+            "genre": "Adventure, Drama",
+            "description": "The Clock family are four-inch-tall people who live anonymously in another family's residence, borrowing simple items to make their home. Life changes for the Clocks when their teenage daughter, Arrietty, is discovered.",
+            "rating": "G",
+            "runtime": "1hr 44min",
+            "poster":
+        },
+        {
+            "id":12,
+            "title": "Pom Poko",
+            "release date": "January 6, 2012 (USA)",
+            "genre":"Fantasy",
+            "description": "A community of magical shape-shifting raccoon dogs struggle to prevent their forest home from being destroyed by urban development." ,
+            "rating": "PG",
+            "runtime":"1hr 59min",
+            "poster": "Images/PomPoko.jpg"
+        },
+        {
+            "id":13,
+            "title": "From Up on Poppy Hill",
+            "release date": " March 15, 2013 (USA)",
+            "genre": "Family, Romance",
+            "description": "A group of Yokohama teens look to save their school's clubhouse from the wrecking ball in preparations for the 1964 Tokyo Olympics.",
+            "rating":"PG",
+            "runtime": "1hr 31min",
+            "poster": "Images/Poppyhill.jpg"
+        },
+        {
+            "id":14,
+            "title": "My Neighbors the Yamadas",
+            "release date": " December 22, 2000 (USA)",
+            "genre": "Animation, Family, Comedy",
+            "description": "The life and misadventures of a family in contemporary Japan.",
+            "rating":"PG",
+            "runtime": "1hr 44min",
+            "poster": "Images/myneighborstheyamadas.jpg"
+        },
+        {
+            "id":15,
+            "title": "The Cat Returns",
+            "release date": "July 19, 2002 (USA)",
+            "genre": "Fantasy, Adventure",
+            "description": "High school student Haru rescues a cat that was about to be run over by a truck and discovers the cat is actually a prince named Lune. Out of gratitude, Lune's father, the Cat King, asks her to marry Lune. Haru is brought to the Cat Kingdom, where she starts to develop feline features.",
+            "rating":"G",
+            "runtime": "1hr 15min",
+            "poster":"Images/thecatreturns.jpg"
+        },
+        {
+            "id":16,
+            "title": "Grave of the Fireflies",
+            "release date": "June 2, 1993 (USA)",
+            "genre": "Drama, War",
+            "description": "A teenager is charged with the care of his younger sister after an Allied firebombing during World War II destroys their home and kills their mother.",
+            "rating":"No Rating",
+            "runtime": "1hr 29min",
+            "poster": "Images/"
+        },
+        {
+            "id":17,
+            "title": "Only Yesterday",
+            "release date": "January 1, 2016 (USA)",
+            "genre": "Romance, Drama",
+            "description": "A put-upon 27-year-old Japanese office worker travels to the countryside and reminisces about her childhood in Tokyo and what life could have been.",
+            "rating":"PG",
+            "runtime": "1hr 59min",
+            "poster": "Images/OnlyYesterday.jpg"
+        },
+        {
+            "id":18,
+            "title": "The Wind Rises",
+            "release date": "February 21, 2014 (USA)",
+            "genre": "War, Romance",
+            "description": "A lifelong love of flight inspires Japanese aviation engineer Jiro Horikoshi, whose storied career includes the creation of the A-6M World War II fighter plane.",
+            "rating":"PG-13",
+            "runtime": "2hr 6min",
+            "poster": "Images/TheWindRises.jpg"
+        },
+        {
+            "id":19,
+            "title": "Whisper of the Heart",
+            "release date": "July 15, 1995 (USA)",
+            "genre": "Family, Romance",
+            "description": "Based on the manga with the same title, this animated film follows Shizuku, an inquisitive young girl and a voracious reader, who longs to be a writer when she grows up. One day she notices that all of her library books have previously been taken out by one Seiji Amasawa. Amid chasing after a large cat, befriending an eccentric antiques dealer and writing her first novel, Shizuku aims to find this mysterious boy who may well be her soul mate.",
+            "rating":"G",
+            "runtime": "1hr 51min",
+            "poster":"Images/whisperoftheheart.jpg"
+        },
+        {
+            "id":20,
+            "title": "When Marnie Was There",
+            "release date": "May 22, 2015 (USA)",
+            "genre": "Family, Drama",
+            "description": "A tomboy explores a long-abandoned villa and meets a mysterious blonde girl only she can see.",
+            "rating":"PG",
+            "runtime": "1hr 43min",
+            "poster":"Images/whenmarinewasthere.jpg"
+        },
+        {
+            "id":21,
+            "title": "The Tale of Princess Kaguya",
+            "release date": "October 3, 2014 (USA)",
+            "genre": "Fantasy, Drama",
+            "description": "A tiny nymph found inside a bamboo stalk grows into a beautiful and desirable young woman, who orders her suitors to prove their love by completing a series of near-impossible tasks.",
+            "rating":"PG",
+            "runtime": "2hr 17min",
+            "poster": "Images/thetaleofprincesskaguya.jpg"
+        }
+
+    ]
+}
