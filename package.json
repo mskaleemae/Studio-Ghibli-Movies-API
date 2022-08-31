@@ -1,0 +1,23 @@
+{
+  "name": "studio-ghibli-movies-api",
+  "version": "1.0.0",
+  "description": "Studio-Ghibli-Movies-API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskaleemae/Studio-Ghibli-Movies-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mskaleemae/Studio-Ghibli-Movies-API/issues"
+  },
+  "homepage": "https://github.com/mskaleemae/Studio-Ghibli-Movies-API#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
